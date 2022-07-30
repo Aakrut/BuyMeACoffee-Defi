@@ -23,7 +23,7 @@ GOERLI_API_KEY="YOUR_API_KEY"
 PRIVATE_KEY="YOUR_METAMASK_SECRET_KEY"
 ```
 
-> ⚠️WARNING : **careful before deploying the project to the github make sure you do not have the real money in account so set up the test account for that.**
+> ⚠️WARNING : **Before Uploading the project to github, make sure you don't have any real money in your account, so create a test account.**
 
 Try running some of the following tasks:
 
