@@ -4,7 +4,7 @@ Second Week Challenge Completed. This Project is made with Hardhat, Alchemy and 
 
 Frontend - [Next Js Replit](https://buymeacoffee.aakrut.repl.co/)
 
-Challenges :
+### Challenges :
  - [x] Allow your smart contract to update the withdrawal address.
  - [x] Allow your smart contract to buyLargeCoffee for 0.003 ETH, and create a button on the frontend website that shows a "Buy Large Coffee for 0.003ETH" button.
  
